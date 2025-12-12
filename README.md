@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Rutuja Chavan 👋
 
-<!--
-**Rutujachavanv/Rutujachavanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer (Java + JavaScript + Python) | SAP ABAP & SAP HANA | Master’s Student in Applied Computer Science (SRH University Heidelberg)
 
-Here are some ideas to get you started:
+I am a passionate developer currently pursuing my Master’s in Applied Computer Science at SRH University Heidelberg, Germany. I specialise in full-stack development, cloud technologies, SAP development, and modern software engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Academic Background
+Master of Science – Applied Computer Science
+SRH University Heidelberg, Germany
+
+💼 Full-Stack Developer with strong backend focus
+🔭 Currently working on: Full-Stack MERN Projects & Enterprise SAP ABAP Applications
+🧠 Strong interest in: Cloud platforms, Industry 4.0, intelligent systems, and scalable backend architectures
+🤝 Looking to collaborate on: Full-stack apps, SAP ABAP tools, AI integrations
+✨ Fun fact: I love coding, debugging, traveling, and exploring nature in the mountains 🌄
+
