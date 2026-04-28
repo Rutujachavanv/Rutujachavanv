@@ -1,4 +1,4 @@
-## Hi I'm Rutuja Chavan 👋
+## Hi I'm Rutuja Vasant Chavan 👋
 
 Full-Stack Developer (Java + JavaScript + Python) | SAP ABAP & SAP HANA | Master’s Student in Applied Computer Science (SRH University Heidelberg)
 
